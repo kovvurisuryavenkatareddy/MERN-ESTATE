@@ -2,8 +2,7 @@
 import React from 'react';
 
 export default function Home() {
-  console.log('Home component rendered');
   return (
-    <div>kdfalsj</div>
+    <div>Home</div>
   );
 }
