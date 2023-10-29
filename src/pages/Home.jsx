@@ -1,8 +1,9 @@
 // eslint-disable-next-line no-unused-vars
-import React from 'react'
+import React from 'react';
 
 export default function Home() {
+  console.log('Home component rendered');
   return (
-    <div>Home</div>
-  )
+    <div>kdfalsj</div>
+  );
 }
